@@ -16,7 +16,7 @@ With this Knowledge Base you can remotely access Connections and other state app
 
 
 ## Who this project is for
-This project is intended for LDSS staff who want to use Connections outside of the office.
+This project is intended for LDSS staff who want to use Connections and other state applications outside of the office.
 
 
 ## Project dependencies
