@@ -3,7 +3,7 @@
 
 ## #'s
 
-**40b number**- The “number” you use to log in to your state PC. It is in the format 40b123 with the last three numbers being specific to each individual employee.
+**40b number**- The “number” you use to log in to your state PC. It is in the format **40b123** with the last three numbers being specific to each individual employee.
 
 ## C
 
